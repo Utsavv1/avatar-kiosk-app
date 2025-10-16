@@ -1,0 +1,197 @@
+2025-06-03 10:41:43,547 INFO:User input: What is the capital of india?
+2025-06-03 10:41:45,382 ERROR:Error getting LLM response: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyAy00DV8ewg2EAQYjKzMetfHzGE0zky7qg
+2025-06-03 10:41:45,382 ERROR:An error occurred: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyAy00DV8ewg2EAQYjKzMetfHzGE0zky7qg
+2025-06-03 10:43:37,328 INFO:User input: What is the capital of india?
+2025-06-03 10:43:39,435 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-03 10:43:39,846 INFO:Audio saved to: output\response_20250603_104339_b8f255807b0b4284b297459957910252.mp3
+2025-06-03 10:43:46,376 ERROR:Error generating video: Command '['python', 'wav2lip\\inference.py', '--checkpoint_path', 'wav2lip\\checkpoints\\wav2lip_gan.pth', '--face', 'avatar.jpg', '--audio', 'output\\response_20250603_104339_b8f255807b0b4284b297459957910252.mp3', '--outfile', 'output\\video_20250603_104339_b8f255807b0b4284b297459957910252.mp4']' returned non-zero exit status 1.
+2025-06-03 10:43:46,376 ERROR:An error occurred: Command '['python', 'wav2lip\\inference.py', '--checkpoint_path', 'wav2lip\\checkpoints\\wav2lip_gan.pth', '--face', 'avatar.jpg', '--audio', 'output\\response_20250603_104339_b8f255807b0b4284b297459957910252.mp3', '--outfile', 'output\\video_20250603_104339_b8f255807b0b4284b297459957910252.mp4']' returned non-zero exit status 1.
+2025-06-03 12:37:17,726 INFO:User input: What is the capital of india?
+2025-06-03 12:37:18,468 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-03 12:37:19,146 INFO:Audio saved to: output\response_20250603_123718_8691a8ccc3664f57976b8c1b63eccf48.mp3
+2025-06-03 12:37:26,656 ERROR:Error generating video: Command '['python', 'wav2lip\\inference.py', '--checkpoint_path', 'wav2lip\\checkpoints\\wav2lip_gan.pth', '--face', 'avatar.jpg', '--audio', 'output\\response_20250603_123718_8691a8ccc3664f57976b8c1b63eccf48.mp3', '--outfile', 'output\\video_20250603_123718_8691a8ccc3664f57976b8c1b63eccf48.mp4']' returned non-zero exit status 1.
+2025-06-03 12:37:26,656 ERROR:An error occurred: Command '['python', 'wav2lip\\inference.py', '--checkpoint_path', 'wav2lip\\checkpoints\\wav2lip_gan.pth', '--face', 'avatar.jpg', '--audio', 'output\\response_20250603_123718_8691a8ccc3664f57976b8c1b63eccf48.mp3', '--outfile', 'output\\video_20250603_123718_8691a8ccc3664f57976b8c1b63eccf48.mp4']' returned non-zero exit status 1.
+2025-06-03 12:39:10,753 INFO:User input: What is the capital of india?
+2025-06-03 12:39:11,381 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-03 12:39:11,780 INFO:Audio saved to: output\response_20250603_123911_97955aa06c6148dfbfaed9ac217fc895.mp3
+2025-06-03 12:39:15,526 ERROR:Error generating video: Command '['python', 'wav2lip\\inference.py', '--checkpoint_path', 'wav2lip\\checkpoints\\wav2lip_gan.pth', '--face', 'avatar.jpg', '--audio', 'output\\response_20250603_123911_97955aa06c6148dfbfaed9ac217fc895.mp3', '--outfile', 'output\\video_20250603_123911_97955aa06c6148dfbfaed9ac217fc895.mp4']' returned non-zero exit status 1.
+2025-06-03 12:39:15,526 ERROR:An error occurred: Command '['python', 'wav2lip\\inference.py', '--checkpoint_path', 'wav2lip\\checkpoints\\wav2lip_gan.pth', '--face', 'avatar.jpg', '--audio', 'output\\response_20250603_123911_97955aa06c6148dfbfaed9ac217fc895.mp3', '--outfile', 'output\\video_20250603_123911_97955aa06c6148dfbfaed9ac217fc895.mp4']' returned non-zero exit status 1.
+2025-06-03 12:41:19,420 INFO:User input: What is the capital of india?
+2025-06-03 12:41:20,124 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-03 12:41:20,643 INFO:Audio saved to: output\response_20250603_124120_87456f50e9b24a1dabda2651a6e5e16c.mp3
+2025-06-03 12:41:24,303 ERROR:Error generating video: Command '['python', 'wav2lip\\inference.py', '--checkpoint_path', 'wav2lip\\checkpoints\\wav2lip_gan.pth', '--face', 'avatar.jpg', '--audio', 'output\\response_20250603_124120_87456f50e9b24a1dabda2651a6e5e16c.mp3', '--outfile', 'output\\video_20250603_124120_87456f50e9b24a1dabda2651a6e5e16c.mp4']' returned non-zero exit status 1.
+2025-06-03 12:41:24,303 ERROR:An error occurred: Command '['python', 'wav2lip\\inference.py', '--checkpoint_path', 'wav2lip\\checkpoints\\wav2lip_gan.pth', '--face', 'avatar.jpg', '--audio', 'output\\response_20250603_124120_87456f50e9b24a1dabda2651a6e5e16c.mp3', '--outfile', 'output\\video_20250603_124120_87456f50e9b24a1dabda2651a6e5e16c.mp4']' returned non-zero exit status 1.
+2025-06-03 12:57:26,930 INFO:User input: What is the capital of india?
+2025-06-03 12:57:27,576 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-03 12:57:27,984 INFO:Audio saved to: output\response_20250603_125727_135f43167e09429393a19702d0a0de0f.mp3
+2025-06-03 12:57:31,905 ERROR:Error generating video: Command '['python', 'wav2lip\\inference.py', '--checkpoint_path', 'wav2lip\\checkpoints\\wav2lip_gan.pth', '--face', 'avatar.jpg', '--audio', 'output\\response_20250603_125727_135f43167e09429393a19702d0a0de0f.mp3', '--outfile', 'output\\video_20250603_125727_135f43167e09429393a19702d0a0de0f.mp4']' returned non-zero exit status 1.
+2025-06-03 12:57:31,905 ERROR:An error occurred: Command '['python', 'wav2lip\\inference.py', '--checkpoint_path', 'wav2lip\\checkpoints\\wav2lip_gan.pth', '--face', 'avatar.jpg', '--audio', 'output\\response_20250603_125727_135f43167e09429393a19702d0a0de0f.mp3', '--outfile', 'output\\video_20250603_125727_135f43167e09429393a19702d0a0de0f.mp4']' returned non-zero exit status 1.
+2025-06-03 12:59:51,984 INFO:User input: What is the capital of india?
+2025-06-03 12:59:52,597 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-03 12:59:52,919 INFO:Audio saved to: output\response_20250603_125952_21fb6ee3706d4c10bc0514e579e6230d.mp3
+2025-06-03 13:00:09,470 INFO:Video saved to: output\video_20250603_125952_21fb6ee3706d4c10bc0514e579e6230d.mp4
+2025-06-03 14:57:12,970 INFO:User input: What is the capital of india?
+2025-06-03 14:57:14,910 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-03 14:57:15,333 INFO:Audio saved to: output\response_20250603_145714_b1d03f9e2e894f7aaaa5a717853ced15.mp3
+2025-06-03 14:57:24,224 INFO:Video saved to: output\video_20250603_145714_b1d03f9e2e894f7aaaa5a717853ced15.mp4
+2025-06-03 18:21:00,608 INFO:User input: tell me about the AI world
+2025-06-03 18:21:06,166 INFO:LLM response: The AI world is a rapidly evolving and multifaceted landscape.  It's not a single entity, but rather a collection of interconnected fields, technologies, and applications.  Here's a breakdown of key aspects:
+
+**1. Core Technologies:**
+
+* **Machine Learning (ML):**  This is the backbone of much of modern AI.  ML algorithms allow computers to learn from data without explicit programming.  This includes various techniques like:
+    * **Supervised Learning:**  Learning from labeled data (e.g., image classification with labeled images).
+    * **Unsupervised Learning:**  Finding patterns in unlabeled data (e.g., clustering similar customers).
+    * **Reinforcement Learning:**  Learning through trial and error by interacting with an environment (e.g., training a game-playing AI).
+* **Deep Learning (DL):** A subset of ML that uses artificial neural networks with multiple layers to analyze data.  This has driven breakthroughs in areas like image recognition, natural language processing, and speech recognition.
+* **Natural Language Processing (NLP):**  Focuses on enabling computers to understand, interpret, and generate human language.  Applications include chatbots, language translation, and sentiment analysis.
+* **Computer Vision:**  Allows computers to "see" and interpret images and videos.  Applications include object detection, facial recognition, and medical image analysis.
+* **Robotics:**  Combines AI with physical robots to create intelligent machines capable of performing tasks in the real world.
+
+**2. Applications:**
+
+AI is impacting almost every industry imaginable:
+
+* **Healthcare:**  Diagnosis assistance, drug discovery, personalized medicine.
+* **Finance:**  Fraud detection, algorithmic trading, risk management.
+* **Transportation:**  Self-driving cars, traffic optimization.
+* **Retail:**  Recommendation systems, personalized marketing, inventory management.
+* **Manufacturing:**  Predictive maintenance, quality control, process optimization.
+* **Entertainment:**  Game AI, content creation, personalized recommendations.
+
+**3. Current Trends and Challenges:**
+
+* **Large Language Models (LLMs):**  Powerful AI models capable of generating human-quality text, translating languages, and answering questions.  Examples include GPT-3, LaMDA, and others.
+* **Generative AI:**  AI systems that can create new content, such as images, text, music, and code.  Tools like DALL-E 2, Midjourney, and Stable Diffusion are examples.
+* **Ethical Concerns:**  Bias in algorithms, job displacement, privacy issues, and the potential misuse of AI are significant concerns.
+* **Explainability and Transparency:**  Understanding how complex AI models make decisions is crucial for trust and accountability.
+* **Data Availability and Quality:**  AI models rely on large amounts of high-quality data, which can be expensive and difficult to obtain.
+* **Computational Resources:**  Training advanced AI models requires significant computing power.
+
+**4. The Future of AI:**
+
+The future of AI is uncertain but likely to involve:
+
+* **More powerful and efficient AI models.**
+* **Increased integration of AI into everyday life.**
+* **Development of more robust and ethical AI systems.**
+* **New and unexpected applications of AI.**
+
+The AI world is a dynamic and exciting field with the potential to revolutionize many aspects of our lives. However, it's crucial to address the ethical and societal challenges alongside technological advancements to ensure a beneficial future.
+2025-06-03 18:21:55,551 INFO:User input: tell me about the AI world
+2025-06-03 18:22:02,490 INFO:LLM response: The AI world is a rapidly evolving and multifaceted landscape.  It's not a single thing, but rather a collection of technologies, applications, and ongoing research efforts all centered around creating intelligent machines.  Here's a breakdown of key aspects:
+
+**1. Types of AI:**
+
+* **Narrow or Weak AI:** This is the most common type of AI today. It's designed to perform a specific task, like recommending products (Amazon), playing chess (Deep Blue), or recognizing faces (Facebook).  It excels at its designated task but lacks general intelligence or understanding.
+
+* **General or Strong AI:** This hypothetical type of AI would possess human-level intelligence and be able to perform any intellectual task that a human being can.  We haven't achieved this yet, and its development is a topic of significant debate.
+
+* **Super AI:** This is an even more speculative type of AI that surpasses human intelligence in all aspects.  Its potential and risks are the subject of much science fiction and philosophical discussion.
+
+**2. Key Technologies:**
+
+* **Machine Learning (ML):**  This is a subset of AI where systems learn from data without explicit programming.  Different types of ML include supervised learning (learning from labeled data), unsupervised learning (finding patterns in unlabeled data), and reinforcement learning (learning through trial and error).
+
+* **Deep Learning (DL):** A subset of ML that uses artificial neural networks with multiple layers to analyze data and extract complex patterns.  Deep learning is responsible for many recent breakthroughs in AI, such as image recognition and natural language processing.
+
+* **Natural Language Processing (NLP):**  This focuses on enabling computers to understand, interpret, and generate human language.  Applications include chatbots, machine translation, and sentiment analysis.
+
+* **Computer Vision:**  This enables computers to "see" and interpret images and videos.  Applications include self-driving cars, medical image analysis, and object detection.
+
+**3. Applications Across Industries:**
+
+AI is transforming various sectors:
+
+* **Healthcare:** Diagnosis assistance, drug discovery, personalized medicine.
+* **Finance:** Fraud detection, algorithmic trading, risk management.
+* **Transportation:** Self-driving cars, traffic optimization.
+* **Retail:** Personalized recommendations, customer service chatbots.
+* **Manufacturing:** Predictive maintenance, quality control.
+* **Entertainment:** Content recommendation, game AI.
+
+**4. Ethical and Societal Implications:**
+
+The rapid advancement of AI raises important ethical and societal concerns:
+
+* **Job displacement:** Automation powered by AI could lead to significant job losses in certain sectors.
+* **Bias and fairness:** AI systems can inherit and amplify biases present in the data they are trained on, leading to unfair or discriminatory outcomes.
+* **Privacy:**  AI systems often rely on vast amounts of personal data, raising concerns about privacy violations.
+* **Safety and security:**  The potential misuse of AI, such as in autonomous weapons systems, is a major concern.
+* **Explainability and transparency:**  Understanding how complex AI systems arrive at their decisions is crucial for trust and accountability.
+
+
+**5. The Future of AI:**
+
+The future of AI is uncertain but holds immense potential.  We can expect continued advancements in various areas, leading to more sophisticated and powerful AI systems.  However, addressing the ethical and societal challenges will be crucial to ensuring that AI benefits humanity as a whole.  Research into explainable AI (XAI), robust AI, and AI safety are critical areas of ongoing development.
+2025-06-03 18:22:52,027 INFO:Audio saved to: output\response_20250603_182202_20274bd53c4142c9bf7b69757cadef7c.mp3
+2025-06-03 18:23:35,971 INFO:User input: tell me about the AI world
+2025-06-03 18:23:43,187 INFO:LLM response: The AI world is a rapidly evolving and incredibly diverse landscape.  It's not a single thing, but rather a collection of technologies, applications, and ongoing research efforts all centered around creating intelligent machines.  Here's a breakdown of some key aspects:
+
+**Key Technologies:**
+
+* **Machine Learning (ML):**  The dominant approach today, ML allows computers to learn from data without explicit programming.  This includes various techniques like:
+    * **Supervised Learning:** Training models on labeled data (e.g., classifying images of cats and dogs).
+    * **Unsupervised Learning:** Finding patterns in unlabeled data (e.g., clustering customers based on purchasing behavior).
+    * **Reinforcement Learning:** Training agents to make decisions in an environment to maximize rewards (e.g., training a game-playing AI).
+    * **Deep Learning (DL):** A subset of ML using artificial neural networks with multiple layers to extract higher-level features from data.  This is behind many breakthroughs in image recognition, natural language processing, and more.
+
+* **Natural Language Processing (NLP):**  Focuses on enabling computers to understand, interpret, and generate human language.  Applications include chatbots, language translation, sentiment analysis, and text summarization.
+
+* **Computer Vision:**  Enables computers to "see" and interpret images and videos.  Applications include object detection, facial recognition, image classification, and medical image analysis.
+
+* **Robotics:**  Combines AI with physical robots to create intelligent machines capable of interacting with the physical world.  Applications range from industrial automation to surgical robots and self-driving cars.
+
+**Applications Across Industries:**
+
+AI is rapidly transforming numerous industries:
+
+* **Healthcare:**  Diagnostics, drug discovery, personalized medicine, robotic surgery.
+* **Finance:**  Fraud detection, algorithmic trading, risk management, customer service.
+* **Transportation:**  Self-driving cars, traffic optimization, autonomous delivery.
+* **Retail:**  Personalized recommendations, inventory management, customer service chatbots.
+* **Manufacturing:**  Predictive maintenance, quality control, process optimization.
+* **Entertainment:**  Game AI, music and art generation, personalized content recommendations.
+
+
+**Current Challenges and Concerns:**
+
+* **Data Bias:** AI models are only as good as the data they're trained on. Biased data can lead to discriminatory outcomes.
+* **Explainability ("Black Box" problem):**  Understanding how complex AI models arrive at their decisions is crucial, especially in high-stakes applications.
+* **Ethical Considerations:**  Concerns about job displacement, privacy violations, autonomous weapons systems, and the potential misuse of AI.
+* **Computational Resources:**  Training advanced AI models requires significant computational power and energy.
+* **Regulation and Governance:**  The rapid pace of AI development necessitates careful consideration of ethical guidelines and regulatory frameworks.
+
+
+**The Future of AI:**
+
+The AI world is constantly evolving.  Future developments may include:
+
+* **General Artificial Intelligence (AGI):**  Hypothetical AI with human-level intelligence and the ability to perform any intellectual task that a human being can.
+* **More robust and explainable AI models:**  Addressing the "black box" problem will be crucial for wider adoption and trust.
+* **Increased collaboration between humans and AI:**  AI will likely augment human capabilities rather than completely replace them.
+* **New applications and breakthroughs:**  We can expect AI to continue transforming various aspects of our lives in unforeseen ways.
+
+
+This overview provides a glimpse into the vast and complex world of AI.  Each area mentioned above is a field of study in itself, with ongoing research and development pushing the boundaries of what's possible.
+2025-06-03 18:24:33,279 INFO:Audio saved to: output\response_20250603_182343_1e3a345042e44df88bc98ccbed95836c.mp3
+2025-06-03 18:31:15,438 INFO:Video saved to: output\video_20250603_182343_1e3a345042e44df88bc98ccbed95836c.mp4
+2025-06-03 18:35:20,449 INFO:User input: what is the capital of india?
+2025-06-03 18:35:21,253 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-03 18:35:21,777 INFO:Audio saved to: output\response_20250603_183521_beb3bcd805684e57a368c4e73cd9808e.mp3
+2025-06-03 18:35:31,130 INFO:Video saved to: output\video_20250603_183521_beb3bcd805684e57a368c4e73cd9808e.mp4
+2025-06-04 16:57:54,468 INFO:User input: what is the capital of india?
+2025-06-04 16:57:56,407 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-04 16:57:57,208 INFO:Audio saved to: output\response_20250604_165756_493cc6c88d564e59acbb080b01a41ebf.mp3
+2025-06-04 17:35:50,825 INFO:User input: what is the capital of india?
+2025-06-04 17:35:52,969 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-04 17:35:54,160 INFO:Audio saved to: output\response_20250604_173552_af6a26c7cba9456fbbcf2d0f3bb89399.mp3
+2025-06-04 17:50:04,728 INFO:User input: what is the capital of india?
+2025-06-04 18:15:14,168 INFO:User input: what is the capital of india?
+2025-06-04 18:15:16,305 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-04 18:15:16,691 INFO:Audio saved to: output\response_20250604_181516_ae147196d4d1454891e229738febd148.mp3
+2025-06-04 18:15:30,209 INFO:Video saved to: output\video_20250604_181516_ae147196d4d1454891e229738febd148.mp4
+2025-06-04 18:17:01,161 INFO:User input: what is the capital of india?
+2025-06-04 18:17:03,233 INFO:LLM response: The capital of India is **New Delhi**.
+2025-06-04 18:17:03,785 INFO:Audio saved to: output\response_20250604_181703_1bba756682c04a19a60e62fa475a45ac.mp3
+2025-06-04 18:17:15,726 INFO:Video saved to: output\video_20250604_181703_1bba756682c04a19a60e62fa475a45ac.mp4

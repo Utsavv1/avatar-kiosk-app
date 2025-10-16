@@ -1,0 +1,423 @@
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:root:2025-06-05_16-55-30 | Age: 32, Gender: {'Woman': 16.297927498817444, 'Man': 83.70206952095032}, Emotion: fear
+INFO:root:2025-06-05_16-55-30 | Age: 33, Gender: {'Woman': 15.470650792121887, 'Man': 84.52934622764587}, Emotion: fear
+INFO:root:2025-06-05_16-55-31 | Age: 33, Gender: {'Woman': 15.264032781124115, 'Man': 84.73596572875977}, Emotion: fear
+INFO:root:2025-06-05_16-55-31 | Age: 33, Gender: {'Woman': 15.581490099430084, 'Man': 84.41850543022156}, Emotion: fear
+INFO:root:2025-06-05_16-55-32 | Age: 33, Gender: {'Woman': 15.205468237400055, 'Man': 84.79453325271606}, Emotion: fear
+INFO:root:2025-06-05_16-55-32 | Age: 32, Gender: {'Woman': 16.024282574653625, 'Man': 83.97571444511414}, Emotion: fear
+INFO:root:2025-06-05_16-55-33 | Age: 32, Gender: {'Woman': 16.522343456745148, 'Man': 83.47765803337097}, Emotion: fear
+INFO:root:2025-06-05_16-55-33 | Age: 32, Gender: {'Woman': 16.42095297574997, 'Man': 83.57904553413391}, Emotion: fear
+INFO:root:2025-06-05_16-55-34 | Age: 28, Gender: {'Woman': 35.171326994895935, 'Man': 64.82867002487183}, Emotion: fear
+INFO:root:2025-06-05_16-55-34 | Age: 28, Gender: {'Woman': 55.31638264656067, 'Man': 44.68361735343933}, Emotion: fear
+INFO:root:2025-06-05_16-55-35 | Age: 32, Gender: {'Woman': 16.428591310977936, 'Man': 83.57141017913818}, Emotion: fear
+INFO:root:2025-06-05_16-55-35 | Age: 30, Gender: {'Woman': 33.549049496650696, 'Man': 66.45095944404602}, Emotion: fear
+INFO:root:2025-06-05_16-55-36 | Age: 32, Gender: {'Woman': 15.75257033109665, 'Man': 84.24743413925171}, Emotion: fear
+INFO:root:2025-06-05_16-55-36 | Age: 32, Gender: {'Woman': 15.292912721633911, 'Man': 84.70708727836609}, Emotion: fear
+INFO:root:2025-06-05_16-55-37 | Age: 32, Gender: {'Woman': 16.257721185684204, 'Man': 83.7422788143158}, Emotion: fear
+INFO:root:2025-06-05_16-55-37 | Age: 32, Gender: {'Woman': 15.192627906799316, 'Man': 84.8073661327362}, Emotion: fear
+INFO:root:2025-06-05_16-55-38 | Age: 32, Gender: {'Woman': 16.90932661294937, 'Man': 83.09068083763123}, Emotion: fear
+INFO:root:2025-06-05_16-55-38 | Age: 33, Gender: {'Woman': 15.652243793010712, 'Man': 84.34775471687317}, Emotion: fear
+INFO:root:2025-06-05_16-55-39 | Age: 29, Gender: {'Woman': 88.12938928604126, 'Man': 11.870617419481277}, Emotion: fear
+INFO:root:2025-06-05_16-55-39 | Age: 30, Gender: {'Woman': 35.068479180336, 'Man': 64.93151783943176}, Emotion: fear
+INFO:root:2025-06-05_16-55-39 | Age: 33, Gender: {'Woman': 17.171871662139893, 'Man': 82.82812237739563}, Emotion: fear
+INFO:root:2025-06-05_16-55-40 | Age: 32, Gender: {'Woman': 14.636366069316864, 'Man': 85.3636384010315}, Emotion: fear
+INFO:root:2025-06-05_16-55-40 | Age: 32, Gender: {'Woman': 14.93740826845169, 'Man': 85.06258726119995}, Emotion: fear
+INFO:root:2025-06-05_16-55-40 | Age: 32, Gender: {'Woman': 16.03630781173706, 'Man': 83.96368622779846}, Emotion: fear
+INFO:root:2025-06-05_16-55-41 | Age: 31, Gender: {'Woman': 16.28231555223465, 'Man': 83.71769189834595}, Emotion: fear
+INFO:root:2025-06-05_16-55-41 | Age: 32, Gender: {'Woman': 15.410314500331879, 'Man': 84.58968997001648}, Emotion: fear
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:root:2025-06-05_16-56-18 | Age: 34, Gender: {'Woman': 15.345951914787292, 'Man': 84.65404510498047}, Emotion: fear
+INFO:root:2025-06-05_16-56-18 | Age: 34, Gender: {'Woman': 16.959653794765472, 'Man': 83.04034471511841}, Emotion: fear
+INFO:root:2025-06-05_16-56-19 | Age: 35, Gender: {'Woman': 17.155463993549347, 'Man': 82.8445315361023}, Emotion: fear
+INFO:root:2025-06-05_16-56-19 | Age: 35, Gender: {'Woman': 17.09689348936081, 'Man': 82.90310502052307}, Emotion: fear
+INFO:root:2025-06-05_16-56-20 | Age: 35, Gender: {'Woman': 16.754093766212463, 'Man': 83.2459032535553}, Emotion: fear
+INFO:root:2025-06-05_16-56-20 | Age: 35, Gender: {'Woman': 16.088029742240906, 'Man': 83.91197323799133}, Emotion: fear
+INFO:root:2025-06-05_16-56-21 | Age: 35, Gender: {'Woman': 15.337762236595154, 'Man': 84.66224074363708}, Emotion: fear
+INFO:root:2025-06-05_16-56-22 | Age: 35, Gender: {'Woman': 15.312734246253967, 'Man': 84.6872627735138}, Emotion: fear
+INFO:root:2025-06-05_16-56-23 | Age: 35, Gender: {'Woman': 16.25114381313324, 'Man': 83.748859167099}, Emotion: fear
+INFO:root:2025-06-05_16-56-23 | Age: 35, Gender: {'Woman': 16.037312150001526, 'Man': 83.96268486976624}, Emotion: fear
+INFO:root:2025-06-05_16-56-24 | Age: 34, Gender: {'Woman': 15.918634831905365, 'Man': 84.081369638443}, Emotion: fear
+INFO:root:2025-06-05_16-56-24 | Age: 34, Gender: {'Woman': 15.403346717357635, 'Man': 84.59665775299072}, Emotion: fear
+INFO:root:2025-06-05_16-56-25 | Age: 34, Gender: {'Woman': 15.297536551952362, 'Man': 84.70246195793152}, Emotion: fear
+INFO:root:2025-06-05_16-56-25 | Age: 35, Gender: {'Woman': 15.204210579395294, 'Man': 84.79578495025635}, Emotion: fear
+INFO:root:2025-06-05_16-56-26 | Age: 35, Gender: {'Woman': 15.50317108631134, 'Man': 84.4968318939209}, Emotion: fear
+INFO:root:2025-06-05_16-56-26 | Age: 34, Gender: {'Woman': 16.224829852581024, 'Man': 83.77516865730286}, Emotion: fear
+INFO:root:2025-06-05_16-56-27 | Age: 34, Gender: {'Woman': 15.738418698310852, 'Man': 84.26158428192139}, Emotion: fear
+INFO:root:2025-06-05_16-56-28 | Age: 34, Gender: {'Woman': 15.485402941703796, 'Man': 84.51460003852844}, Emotion: fear
+INFO:root:2025-06-05_16-56-28 | Age: 35, Gender: {'Woman': 15.03889411687851, 'Man': 84.96111035346985}, Emotion: fear
+INFO:root:2025-06-05_16-56-29 | Age: 35, Gender: {'Woman': 16.06592833995819, 'Man': 83.93407464027405}, Emotion: fear
+INFO:root:2025-06-05_16-56-29 | Age: 35, Gender: {'Woman': 16.053758561611176, 'Man': 83.94624590873718}, Emotion: fear
+INFO:root:2025-06-05_16-56-30 | Age: 35, Gender: {'Woman': 17.04564094543457, 'Man': 82.95435905456543}, Emotion: fear
+INFO:root:2025-06-05_16-56-31 | Age: 34, Gender: {'Woman': 15.880870819091797, 'Man': 84.1191291809082}, Emotion: fear
+INFO:root:2025-06-05_16-56-32 | Age: 34, Gender: {'Woman': 15.074160695075989, 'Man': 84.92583632469177}, Emotion: fear
+INFO:root:2025-06-05_16-56-32 | Age: 34, Gender: {'Woman': 15.675042569637299, 'Man': 84.32495594024658}, Emotion: fear
+INFO:root:2025-06-05_16-56-33 | Age: 35, Gender: {'Woman': 16.246019303798676, 'Man': 83.75398516654968}, Emotion: fear
+INFO:root:2025-06-05_16-56-34 | Age: 35, Gender: {'Woman': 16.225318610668182, 'Man': 83.77467393875122}, Emotion: fear
+INFO:root:2025-06-05_16-56-35 | Age: 34, Gender: {'Woman': 16.715815663337708, 'Man': 83.28418731689453}, Emotion: fear
+INFO:root:2025-06-05_16-56-35 | Age: 34, Gender: {'Woman': 17.593345046043396, 'Man': 82.40665197372437}, Emotion: fear
+INFO:root:2025-06-05_16-56-36 | Age: 34, Gender: {'Woman': 16.487647593021393, 'Man': 83.51235389709473}, Emotion: fear
+INFO:root:2025-06-05_16-56-37 | Age: 34, Gender: {'Woman': 16.807687282562256, 'Man': 83.19231271743774}, Emotion: fear
+INFO:root:2025-06-05_16-56-37 | Age: 35, Gender: {'Woman': 17.165696620941162, 'Man': 82.83429741859436}, Emotion: fear
+INFO:root:2025-06-05_16-56-38 | Age: 34, Gender: {'Woman': 16.26812219619751, 'Man': 83.73187780380249}, Emotion: fear
+INFO:root:2025-06-05_16-56-38 | Age: 34, Gender: {'Woman': 15.36644846200943, 'Man': 84.63354706764221}, Emotion: fear
+INFO:root:2025-06-05_16-56-39 | Age: 35, Gender: {'Woman': 16.16182029247284, 'Man': 83.8381826877594}, Emotion: fear
+INFO:root:2025-06-05_16-56-39 | Age: 34, Gender: {'Woman': 16.25256836414337, 'Man': 83.74742865562439}, Emotion: fear
+INFO:root:2025-06-05_16-56-40 | Age: 34, Gender: {'Woman': 16.06093943119049, 'Man': 83.93906354904175}, Emotion: fear
+INFO:root:2025-06-05_16-56-40 | Age: 34, Gender: {'Woman': 15.312525629997253, 'Man': 84.68747735023499}, Emotion: fear
+INFO:root:2025-06-05_16-56-41 | Age: 34, Gender: {'Woman': 15.808425843715668, 'Man': 84.19157862663269}, Emotion: fear
+INFO:root:2025-06-05_16-56-41 | Age: 34, Gender: {'Woman': 17.439067363739014, 'Man': 82.56093859672546}, Emotion: fear
+INFO:root:2025-06-05_16-56-42 | Age: 34, Gender: {'Woman': 17.070171236991882, 'Man': 82.92983174324036}, Emotion: fear
+INFO:root:2025-06-05_16-56-42 | Age: 35, Gender: {'Woman': 17.595313489437103, 'Man': 82.40469098091125}, Emotion: fear
+INFO:root:2025-06-05_16-56-42 | Age: 34, Gender: {'Woman': 17.99064427614212, 'Man': 82.00935125350952}, Emotion: fear
+INFO:root:2025-06-05_16-56-43 | Age: 34, Gender: {'Woman': 15.720929205417633, 'Man': 84.27907228469849}, Emotion: fear
+INFO:root:2025-06-05_16-56-43 | Age: 34, Gender: {'Woman': 16.710680723190308, 'Man': 83.28931927680969}, Emotion: fear
+INFO:root:2025-06-05_16-56-44 | Age: 34, Gender: {'Woman': 15.233983099460602, 'Man': 84.76601839065552}, Emotion: fear
+INFO:root:2025-06-05_16-56-44 | Age: 33, Gender: {'Woman': 15.637427568435669, 'Man': 84.36256647109985}, Emotion: fear
+INFO:root:2025-06-05_16-56-45 | Age: 34, Gender: {'Woman': 16.95178598165512, 'Man': 83.04821252822876}, Emotion: fear
+INFO:root:2025-06-05_16-56-46 | Age: 34, Gender: {'Woman': 16.11647456884384, 'Man': 83.88352990150452}, Emotion: fear
+INFO:root:2025-06-05_16-56-46 | Age: 33, Gender: {'Woman': 15.569502115249634, 'Man': 84.43049788475037}, Emotion: fear
+INFO:root:2025-06-05_16-56-47 | Age: 33, Gender: {'Woman': 15.400923788547516, 'Man': 84.59908366203308}, Emotion: fear
+INFO:root:2025-06-05_16-56-48 | Age: 33, Gender: {'Woman': 14.60464596748352, 'Man': 85.39535999298096}, Emotion: fear
+INFO:root:2025-06-05_16-56-48 | Age: 33, Gender: {'Woman': 14.896507561206818, 'Man': 85.1034939289093}, Emotion: fear
+INFO:root:2025-06-05_16-56-49 | Age: 33, Gender: {'Woman': 14.611805975437164, 'Man': 85.38819551467896}, Emotion: fear
+INFO:root:2025-06-05_16-56-49 | Age: 34, Gender: {'Woman': 14.848904311656952, 'Man': 85.15109419822693}, Emotion: fear
+INFO:root:2025-06-05_16-56-50 | Age: 34, Gender: {'Woman': 14.5927295088768, 'Man': 85.40726900100708}, Emotion: fear
+INFO:root:2025-06-05_16-56-50 | Age: 34, Gender: {'Woman': 14.4798144698143, 'Man': 85.52018404006958}, Emotion: fear
+INFO:root:2025-06-05_16-56-50 | Age: 33, Gender: {'Woman': 14.466612040996552, 'Man': 85.53338646888733}, Emotion: fear
+INFO:root:2025-06-05_16-56-51 | Age: 33, Gender: {'Woman': 14.596514403820038, 'Man': 85.40348410606384}, Emotion: fear
+INFO:root:2025-06-05_16-56-51 | Age: 34, Gender: {'Woman': 15.359368920326233, 'Man': 84.640634059906}, Emotion: fear
+INFO:root:2025-06-05_16-56-52 | Age: 34, Gender: {'Woman': 16.476915776729584, 'Man': 83.52308869361877}, Emotion: fear
+INFO:root:2025-06-05_16-56-53 | Age: 34, Gender: {'Woman': 16.233770549297333, 'Man': 83.76622796058655}, Emotion: fear
+INFO:root:2025-06-05_16-56-53 | Age: 34, Gender: {'Woman': 16.62088930606842, 'Man': 83.37910771369934}, Emotion: fear
+INFO:root:2025-06-05_16-56-53 | Age: 34, Gender: {'Woman': 16.433587670326233, 'Man': 83.566415309906}, Emotion: fear
+INFO:root:2025-06-05_16-56-54 | Age: 34, Gender: {'Woman': 17.048299312591553, 'Man': 82.95169472694397}, Emotion: fear
+INFO:root:2025-06-05_16-56-54 | Age: 33, Gender: {'Woman': 15.516950190067291, 'Man': 84.48304533958435}, Emotion: fear
+INFO:root:2025-06-05_16-56-55 | Age: 33, Gender: {'Woman': 16.534236073493958, 'Man': 83.4657609462738}, Emotion: fear
+INFO:root:2025-06-05_16-56-55 | Age: 33, Gender: {'Woman': 16.738271713256836, 'Man': 83.26173424720764}, Emotion: fear
+INFO:root:2025-06-05_16-56-56 | Age: 32, Gender: {'Woman': 15.379510819911957, 'Man': 84.6204936504364}, Emotion: fear
+INFO:root:2025-06-05_16-56-56 | Age: 32, Gender: {'Woman': 15.088659524917603, 'Man': 84.9113404750824}, Emotion: fear
+INFO:root:2025-06-05_16-56-56 | Age: 32, Gender: {'Woman': 15.664805471897125, 'Man': 84.33519005775452}, Emotion: fear
+INFO:root:2025-06-05_16-56-57 | Age: 32, Gender: {'Woman': 15.268777310848236, 'Man': 84.73122119903564}, Emotion: fear
+INFO:root:2025-06-05_16-56-57 | Age: 32, Gender: {'Woman': 16.016757488250732, 'Man': 83.98324251174927}, Emotion: fear
+INFO:root:2025-06-05_16-56-58 | Age: 33, Gender: {'Woman': 14.854061603546143, 'Man': 85.14593243598938}, Emotion: fear
+INFO:root:2025-06-05_16-56-58 | Age: 33, Gender: {'Woman': 15.748074650764465, 'Man': 84.25192832946777}, Emotion: fear
+INFO:root:2025-06-05_16-56-59 | Age: 33, Gender: {'Woman': 15.212196111679077, 'Man': 84.78779792785645}, Emotion: fear
+INFO:root:2025-06-05_16-56-59 | Age: 34, Gender: {'Woman': 16.988451778888702, 'Man': 83.0115556716919}, Emotion: fear
+INFO:root:2025-06-05_16-57-00 | Age: 34, Gender: {'Woman': 16.216711699962616, 'Man': 83.78328680992126}, Emotion: fear
+INFO:root:2025-06-05_16-57-00 | Age: 34, Gender: {'Woman': 18.073974549770355, 'Man': 81.92602396011353}, Emotion: fear
+INFO:root:2025-06-05_16-57-00 | Age: 34, Gender: {'Woman': 17.80415177345276, 'Man': 82.19584822654724}, Emotion: fear
+INFO:root:2025-06-05_16-57-01 | Age: 34, Gender: {'Woman': 16.721266508102417, 'Man': 83.27873945236206}, Emotion: fear
+INFO:root:2025-06-05_16-57-01 | Age: 34, Gender: {'Woman': 16.24699980020523, 'Man': 83.75299572944641}, Emotion: fear
+INFO:root:2025-06-05_16-57-02 | Age: 34, Gender: {'Woman': 15.525463223457336, 'Man': 84.4745397567749}, Emotion: fear
+INFO:root:2025-06-05_16-57-02 | Age: 34, Gender: {'Woman': 16.584952175617218, 'Man': 83.41504335403442}, Emotion: fear
+INFO:root:2025-06-05_16-57-03 | Age: 34, Gender: {'Woman': 16.72729402780533, 'Man': 83.27270150184631}, Emotion: fear
+INFO:root:2025-06-05_16-57-03 | Age: 32, Gender: {'Woman': 14.757296442985535, 'Man': 85.24270057678223}, Emotion: fear
+INFO:root:2025-06-05_16-57-04 | Age: 32, Gender: {'Woman': 15.315501391887665, 'Man': 84.68449115753174}, Emotion: fear
+INFO:root:2025-06-05_16-57-04 | Age: 32, Gender: {'Woman': 14.971314370632172, 'Man': 85.02868413925171}, Emotion: fear
+INFO:root:2025-06-05_16-57-05 | Age: 32, Gender: {'Woman': 14.150239527225494, 'Man': 85.84976196289062}, Emotion: fear
+INFO:root:2025-06-05_16-57-05 | Age: 31, Gender: {'Woman': 15.03874659538269, 'Man': 84.96125340461731}, Emotion: fear
+INFO:root:2025-06-05_16-57-06 | Age: 32, Gender: {'Woman': 14.066816866397858, 'Man': 85.93317866325378}, Emotion: fear
+INFO:root:2025-06-05_16-57-06 | Age: 32, Gender: {'Woman': 14.402851462364197, 'Man': 85.59715151786804}, Emotion: fear
+INFO:root:2025-06-05_16-57-07 | Age: 32, Gender: {'Woman': 14.648644626140594, 'Man': 85.35135984420776}, Emotion: fear
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: angry
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: angry
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: angry
+WARNING:root:Suspicious emotion detected: angry
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: angry
+WARNING:root:Suspicious emotion detected: angry
+WARNING:root:Suspicious emotion detected: angry
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: angry
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: angry
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: angry
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Failed to read frame from camera.
+WARNING:root:Suspicious emotion detected: fear
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+WARNING:root:Suspicious emotion detected: fear
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ERROR:root:Error analyzing frame: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+WARNING:tensorflow:From C:\Users\deepg\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+

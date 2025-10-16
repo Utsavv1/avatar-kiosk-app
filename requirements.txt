@@ -1,0 +1,6 @@
+gtts
+requests
+opencv-python
+deepface
+transformers
+torch
